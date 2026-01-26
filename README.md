@@ -1,3 +1,15 @@
+
+
+<!-- Banner (self-hosted is best; put a PNG/SVG in /assets and link it here) -->
+<p align="center">
+<img alt="theokeist mark"alt="bb-banner" src="https://github.com/user-attachments/assets/63e1fa7f-ec4b-4315-bbfa-21162d885cc6" />
+</p>
+
+<p align="center">
+  Collector • Translator • Systems + Desktop Engineering Enthusiast (Haiku / *BSD / Linux / Plan 9)
+</p>
+
+---
 <img src="https://media.giphy.com/media/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" />
 <p align="center">
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -6,19 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-
-<!-- Banner (self-hosted is best; put a PNG/SVG in /assets and link it here) -->
-<p align="center">
-  <img src="./assets/theokeist-mark.svg" width="96" height="96" alt="theokeist mark" />
-</p>
-
-<h2 align="center">theokeist</h2>
-<p align="center">
-  Collector • Translator • Systems + Desktop Engineering Enthusiast (Haiku / *BSD / Linux / Plan 9)
-</p>
-
----
-
+  
 ### What I’m building now
 - **PipeFlow** — pragmatic PHP framework work (routing, runtime, middleware/pipes, tooling)
 - **Ghostodon** — Mastodon client experiments (UI + API ergonomics)
