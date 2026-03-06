@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Collector • Translator • Systems + Desktop Engineering Enthusiast (Haiku / *BSD / Linux / Plan 9)
+  Developer • Translator • Systems + Desktop Engineering Enthusiast (Haiku / *BSD / Linux / Plan9front)
 </p>
 
 ---
