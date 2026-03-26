@@ -30,8 +30,6 @@ I am a **collector, translator, and developer** deeply enveloped in the world of
 - 📜 **Legacy:** My contributions are preserved in the **GitHub Arctic Code Vault**.
 
 
----
-
 ### 🚀 Featured Repositories
 - **PipeFlow** — pragmatic PHP framework work (routing, runtime, middleware/pipes, tooling)
 - **Ghostodon** — Mastodon client experiments (UI + API ergonomics)
