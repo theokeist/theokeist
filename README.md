@@ -4,13 +4,6 @@
 <p align="center">
 <img alt="theokeist mark"alt="bb-banner" src="https://github.com/user-attachments/assets/63e1fa7f-ec4b-4315-bbfa-21162d885cc6" />
 </p>
-<p>
-  
-<img src="https://media.giphy.com/media/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" />
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hrbno2dzBhY3R6Zm1yaXNkbGtkMXA4anVqNDRtOTh4dDgxbnVmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95aDE8iaJxPUmxifSa/giphy.gif" width="22%"/>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFhbWxncGxoaDZveXYyY3JjbDZzZWU2cWVmcHNqc3ZhY2cyZDNmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RfkxvOmP3bXcCSSB0k/giphy.gif" width="22%"/>
-</p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Czechia-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Role-Developer%20%26%20Translator-orange?style=for-the-badge" />
@@ -19,6 +12,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
 </p>
+
+<p>
+  
+<img src="https://media.giphy.com/media/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hrbno2dzBhY3R6Zm1yaXNkbGtkMXA4anVqNDRtOTh4dDgxbnVmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95aDE8iaJxPUmxifSa/giphy.gif" width="22%"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFhbWxncGxoaDZveXYyY3JjbDZzZWU2cWVmcHNqc3ZhY2cyZDNmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RfkxvOmP3bXcCSSB0k/giphy.gif" width="22%"/>
+</p>
+
+
 
 ---
 
