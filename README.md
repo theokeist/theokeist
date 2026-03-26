@@ -4,12 +4,6 @@
 <p align="center">
 <img alt="theokeist mark"alt="bb-banner" src="https://github.com/user-attachments/assets/63e1fa7f-ec4b-4315-bbfa-21162d885cc6" />
 </p>
-
-<p align="center">
-  Developer • Translator • Systems + Desktop Engineering Enthusiast (Haiku / *BSD / Linux / Plan9front)
-</p>
-
----
 <p>
   
 <img src="https://media.giphy.com/media/L8A2CLpJJW5d3NR5Tt/giphy.gif" width="22%" />
@@ -36,16 +30,6 @@ I am a **collector, translator, and developer** deeply enveloped in the world of
 - 🌍 **Mission:** Bridging languages and technology through high-quality translations and code contributions.
 - 📜 **Legacy:** My contributions are preserved in the **GitHub Arctic Code Vault**.
 
----
-
-### 🛠️ Technical Stack
-
-| Area | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `Swift`, `Ruby`, `C`, `Node.js`, `Bash`, `SQL` |
-| **Mobile Dev** | `iOS SDK`, `APNS`, `Metatext`, `SwiftUI` |
-| **Database** | `GRDB.swift`, `SQLite`, `Bloom Filters` |
-| **Environment** | `Linux`, `macOS`, `VS Code`, `Git` |
 
 ---
 
@@ -59,29 +43,19 @@ I am a **collector, translator, and developer** deeply enveloped in the world of
 
 ---
 
-### Stack I actually use
-**Languages:** PHP, TypeScript, Swift, C  
-**Systems:** FreeBSD / Linux / Haiku / Plan 9  
-**Tooling:** shell, editors, CI, packaging/build scripts
+### 🛠️ Technical Stack
 
+| Area | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Swift`, `Ruby`, `C`, `Node.js`, `Bash`, `SQL` |
+| **Mobile Dev** | `iOS SDK`, `APNS`, `Metatext`, `SwiftUI` |
+| **Database** | `GRDB.swift`, `SQLite`, `Bloom Filters` |
+| **Environment** | `Linux`, `macOS`, `VS Code`, `Git` |
 ---
-
 ### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=theokeist&show_icons=true&theme=tokyonight&hide_border=true" alt="Theo's GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theokeist&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
-</p>
-
 ---
-
 ### 🏆 Achievements
 * **Pull Shark (x2)** - For those smooth PR merges.
 * **Arctic Code Vault Contributor** - Code preserved for the next 1,000 years.
 * **Public Sponsor** - Supporting the community that builds the web.
 
----
-
-<p align="center">
-  <i>"Collector, translator, developer and enthusiast, enveloped... C_C"</i>
-</p>
