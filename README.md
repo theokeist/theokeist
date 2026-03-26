@@ -38,21 +38,3 @@ I am a **collector, translator, and developer** deeply enveloped in the world of
 
 > I like projects where UX meets systems constraints: packaging, compositing, startup paths, runtime models, and “make it shippable”.
 
----
-
-### 🛠️ Technical Stack
-
-| Area | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `Swift`, `Ruby`, `C`, `Node.js`, `Bash`, `SQL` |
-| **Mobile Dev** | `iOS SDK`, `APNS`, `Metatext`, `SwiftUI` |
-| **Database** | `GRDB.swift`, `SQLite`, `Bloom Filters` |
-| **Environment** | `Linux`, `macOS`, `VS Code`, `Git` |
----
-### 📊 GitHub Stats
----
-### 🏆 Achievements
-* **Pull Shark (x2)** - For those smooth PR merges.
-* **Arctic Code Vault Contributor** - Code preserved for the next 1,000 years.
-* **Public Sponsor** - Supporting the community that builds the web.
-
