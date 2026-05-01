@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-  <img alt="theokeist mark"alt="bb-banner" src="https://github.com/user-attachments/assets/63e1fa7f-ec4b-4315-bbfa-21162d885cc6" />
+  <img alt="theokeist mark" src="https://github.com/theokeist/theokeist/blob/main/theokeist.svg?raw=true" />
 </p>
 
 ---
 
 ### 📖 About Me
-I am a **collector, translator, and developer** deeply enveloped in the world of open-source software. Based in **Czechia**, I focus on building and localizing tools that make the decentralized web more accessible and efficient.
+I am a **collector, translator, and developer** deeply enveloped in the world of open-source software. Based in **Czechia**, I focus on building and localizing tools that make the decentralized web more accessible.
 
 - 🏗️ **Currently working on:** Maintaining and refining forks of the **Metatext** iOS ecosystem.
 - 🌍 **Mission:** Bridging languages and technology through high-quality translations and code contributions.
@@ -35,5 +35,5 @@ I am a **collector, translator, and developer** deeply enveloped in the world of
 - **9desktop / 9de** — Plan 9 / 9front desktop UX and tooling
 - **Window Maker + theming** — classic UNIX desktop with modern polish
 
-> I like projects where UX meets systems constraints: packaging, compositing, startup paths, runtime models, and “make it shippable”.
+> I like projects where UX meets systems constraints: packaging, compositing, startup paths, runtime models, and "make it shippable".
 
